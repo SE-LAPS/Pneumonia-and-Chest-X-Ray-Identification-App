@@ -16,4 +16,6 @@
 
 ![Screenshot (961)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/6d455f7e-a1b3-4fb1-b979-f7e299fb6fe3)
 
+![Screenshot (962)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/a4c0c1e8-fd73-4675-89b6-e9dc30cd2899)
+
 
