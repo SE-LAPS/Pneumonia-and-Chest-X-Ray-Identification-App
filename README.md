@@ -4,6 +4,6 @@
 
 ![Screenshot (955)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/791fad4a-2358-4281-acb5-6096f77d5c53)
 
-![Uploading Screenshot (956).png…]()
+![Screenshot (956)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/5561a9e4-3e3f-4798-a596-5086cb4c3ed0)
 
 ![Screenshot (957)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/717e4609-1ef2-419e-a77c-6c0c243c55b0)
