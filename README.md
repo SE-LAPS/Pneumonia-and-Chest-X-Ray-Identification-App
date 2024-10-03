@@ -1,4 +1,4 @@
-# X-ray Identification of Pneumonia and Tuberculosis System
+# 🩻 X-ray Identification of Pneumonia and Tuberculosis System
 
 ## Objective
 Developed an advanced web-based solution to assist in the early detection of pneumonia and tuberculosis using X-ray images, aimed at enhancing healthcare diagnostics.
