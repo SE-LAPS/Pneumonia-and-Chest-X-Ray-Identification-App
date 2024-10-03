@@ -1,4 +1,4 @@
-# 🩻 X-ray Identification of Pneumonia and Tuberculosis System
+# 🟧 X-ray Identification of Pneumonia and Tuberculosis System 🟦
 
 ## Objective
 Developed an advanced web-based solution to assist in the early detection of pneumonia and tuberculosis using X-ray images, aimed at enhancing healthcare diagnostics.
@@ -30,7 +30,7 @@ Aims to support healthcare professionals by providing early and accurate disease
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/xray-identification.git
+   git clone https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App.git
    
 2. Navigate to the backend directory and install the dependencies:
    ```bash
