@@ -1,26 +1,63 @@
-X-ray Identification of Pneumonia and Tuberculosis System
-Objective
-This project is an advanced web-based solution designed to assist in the early detection of pneumonia and tuberculosis through X-ray images. The system aims to enhance healthcare diagnostics by providing quick, accurate, and reliable results, supporting medical professionals in making informed decisions.
+# X-ray Identification of Pneumonia and Tuberculosis System
 
-Key Features
-Backend: Developed using Python, integrating machine learning models to perform precise image processing and identify pneumonia and tuberculosis.
-Frontend: Designed with React, ensuring an intuitive and responsive user interface for healthcare professionals and researchers.
-Efficiency & Accuracy: The system provides fast and accurate diagnostics, enabling healthcare providers to make timely decisions in patient care.
-Tech Stack
-Python: For backend development and machine learning integration.
-Flask/Django: For handling API management and server-side operations.
-React: Dynamic and responsive frontend for an enhanced user experience.
-TensorFlow/Keras: Used to train and deploy deep learning models for disease detection through X-ray image analysis.
-Impact
-This system aims to empower healthcare professionals by delivering early and accurate disease diagnoses, which is essential for timely and effective treatment, addressing global health challenges.
+## Objective
+Developed an advanced web-based solution to assist in the early detection of pneumonia and tuberculosis using X-ray images, aimed at enhancing healthcare diagnostics.
 
-Getting Started
-Prerequisites
-Python 3.x
-Node.js
-Flask/Django
-TensorFlow/Keras
-MySQL
+## Key Features
+- **Backend:** Built using Python, with integration of machine learning models for accurate image processing and disease identification.
+- **Frontend:** Designed with React for an intuitive and responsive user interface tailored for healthcare professionals and researchers.
+- **Efficiency & Accuracy:** Delivers fast, reliable diagnostics to support informed medical decisions.
+
+## Tech Stack
+- **Python:** For backend development and machine learning integration.
+- **Flask/Django:** For API management and server-side operations.
+- **React:** Dynamic and responsive front-end interface.
+- **TensorFlow/Keras:** Used to train and deploy deep learning models for disease detection.
+
+## Impact
+Aims to support healthcare professionals by providing early and accurate disease diagnosis, which is crucial for timely treatment in addressing global health challenges.
+
+## Getting Started
+
+### Prerequisites
+- Python 3.x
+- Node.js
+- Flask or Django
+- TensorFlow/Keras
+- MySQL
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/xray-identification.git
+   
+2. Navigate to the backend directory and install the dependencies:
+   ```bash
+   cd backend
+   pip install -r requirements.txt 
+
+3. Navigate to the frontend directory and install the dependencies:
+   ```bash
+   cd frontend
+   npm install
+
+4. Set up the MySQL database with the necessary schema for user data and analysis results.
+5. Run the backend server:
+   ```bash
+   python app.py
+
+6. Run the frontend:
+   ```bash
+   npm start
+
+## Impact
+- **Upload X-ray images through the frontend interface.
+- **The system processes the image using machine learning models and provides diagnostic results for pneumonia and tuberculosis.
+- **Admins can view diagnostics and manage patient data via the user-friendly admin panel.
+
+## License
+This project is licensed under the MIT License.
 
 
 ![Screenshot (953)](https://github.com/SE-LAPS/Pneumonia-and-Chest-X-Ray-Identification-App/assets/87580847/63642b18-4f5c-485c-b3f9-ad38d03022cb)
