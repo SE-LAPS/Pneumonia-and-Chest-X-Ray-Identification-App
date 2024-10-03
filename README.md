@@ -52,9 +52,9 @@ Aims to support healthcare professionals by providing early and accurate disease
    npm start
 
 ## Impact
-- **Upload X-ray images through the frontend interface.
-- **The system processes the image using machine learning models and provides diagnostic results for pneumonia and tuberculosis.
-- **Admins can view diagnostics and manage patient data via the user-friendly admin panel.
+- **Upload X-ray images through the frontend interface.**
+- **The system processes the image using machine learning models and provides diagnostic results for pneumonia and tuberculosis.**
+- **Admins can view diagnostics and manage patient data via the user-friendly admin panel.**
 
 ## License
 This project is licensed under the MIT License.
